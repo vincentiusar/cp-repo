@@ -1,0 +1,4 @@
+name: Little Company
+limits:
+    memory: 8
+    output: 16

@@ -1,0 +1,4 @@
+https://codeforces.com/problemset/problem/1736/C1
+
+DP bisa pref state + 1 dan bisa juga dari kanan liat
+ke kiri alias min (dp[i-1] + 1, x) where x itu arr[i]

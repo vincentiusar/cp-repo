@@ -1,0 +1,4 @@
+name: Brutal Company
+limits:
+    memory: 64
+    output: 16
